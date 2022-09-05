@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kapserge/testayomiclients/static/css/main.422913d3.chunk.css",
+    "main.js": "/kapserge/testayomiclients/static/js/main.14037ed0.chunk.js",
+    "main.js.map": "/kapserge/testayomiclients/static/js/main.14037ed0.chunk.js.map",
+    "runtime-main.js": "/kapserge/testayomiclients/static/js/runtime-main.33c8a75d.js",
+    "runtime-main.js.map": "/kapserge/testayomiclients/static/js/runtime-main.33c8a75d.js.map",
+    "static/js/2.00ecb93d.chunk.js": "/kapserge/testayomiclients/static/js/2.00ecb93d.chunk.js",
+    "static/js/2.00ecb93d.chunk.js.map": "/kapserge/testayomiclients/static/js/2.00ecb93d.chunk.js.map",
+    "index.html": "/kapserge/testayomiclients/index.html",
+    "static/css/main.422913d3.chunk.css.map": "/kapserge/testayomiclients/static/css/main.422913d3.chunk.css.map",
+    "static/js/2.00ecb93d.chunk.js.LICENSE.txt": "/kapserge/testayomiclients/static/js/2.00ecb93d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c8a75d.js",
+    "static/js/2.00ecb93d.chunk.js",
+    "static/css/main.422913d3.chunk.css",
+    "static/js/main.14037ed0.chunk.js"
+  ]
+}
