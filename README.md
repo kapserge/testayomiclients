@@ -1,8 +1,10 @@
-# testayomiserver
+# testayomi server
 
-clone app
+## clone app
+----------
 https://github.com/kapserge/testayomiclients.git
 
 
- start server 
+## start server 
+ 
 docker compose up -d
