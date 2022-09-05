@@ -2,7 +2,7 @@
 
 clone app
 ----------
-https://github.com/kapserge/testayomiclients.git
+git clone https://github.com/kapserge/testayomiclients.git
 
 
 ## start server 
