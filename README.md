@@ -1,6 +1,6 @@
 # testayomi server
 
-## clone app
+clone app
 ----------
 https://github.com/kapserge/testayomiclients.git
 
